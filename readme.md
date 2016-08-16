@@ -1,7 +1,5 @@
 #ReadMe
 
-![Project screenshot](file:///Users/amrutharamesh/Desktop/Udacity/movies/screenshot.png)
-
 ## Overview
 This Udacity final project displays a movie trailer website with six of my favorite movies and their respective youtube trailers
 
